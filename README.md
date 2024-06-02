@@ -1,5 +1,5 @@
 # Youtube Web Scrapper
-_Made by - Hitesh wadhwani_
+_Made by - Partha
 ## _special thanks to Ineuron team_
 Youtube web scrapper can scrape the data (url, name, number of likes, number of comments, thumbnail, s3 bucket download
 link, comments) from any youtube channel.
